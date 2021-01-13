@@ -5,7 +5,20 @@
 }
 
 .footerContainerColor{
-    background-color: navy;
+    background-color: #555;
     color: white;
     padding: 3%;
+}
+
+.form-control{
+    width: 30% !important;
+}
+
+footer a{
+    text-decoration: none !important;
+    color: lightgrey;
+}
+
+footer a:hover{
+    color: grey;
 }
