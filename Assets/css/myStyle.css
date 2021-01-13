@@ -1,0 +1,11 @@
+.jumbotroneBgColor{
+    background-color: #ccc;
+    padding: 1%;
+    border-radius: 0.5%;
+}
+
+.footerContainerColor{
+    background-color: navy;
+    color: white;
+    padding: 3%;
+}
