@@ -1,3 +1,10 @@
+@font-face{
+    font-family: "my_font1";
+    src: url(../fonts/Candara.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+
 .jumbotroneBgColor{
     background-color: #ccc;
     padding: 1%;
@@ -11,7 +18,7 @@
 }
 
 .form-control{
-    width: 30% !important;
+    width: 40% !important;
 }
 
 footer a{
@@ -21,4 +28,21 @@ footer a{
 
 footer a:hover{
     color: grey;
+}
+
+#my_form_container{
+    margin: 10% 0 10% 0;
+    font-family: my_font1;
+}
+
+#my_form_container .row-2{
+    margin-top: 1%;
+}
+
+#my_form_container .row-1{
+    margin-top: 2%;
+}
+
+.brandImage{
+    height: 50px;
 }
