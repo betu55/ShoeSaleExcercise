@@ -93,3 +93,16 @@ footer a:hover{
 .greyed-out{
     color: #777;
 }
+
+.jumbo{
+    background-color: #555;
+    color: #ccc !important;
+}
+
+.txtWeight{
+    color: #555;
+}
+
+.txtWeight div img{
+    height: 20rem;
+}
